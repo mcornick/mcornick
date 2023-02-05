@@ -10,4 +10,4 @@ Please don't contact me about job opportunities or to sell me anything. If I'm i
 
 I am no longer on Twitter (because it's a toxic waste dump) or LinkedIn (because I don't want to be chum for recruiter sharks.) I am, however, on [Mastodon](https://social.sdf.org/@mcornick).
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcornick)](https://github.com/mcornick/github-readme-stats)
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcornick)
