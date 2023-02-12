@@ -8,6 +8,6 @@ I live in Reston, Virginia, about half an hour west of Washington, DC. My time z
 
 Please don't contact me about job opportunities or to sell me anything. If I'm interested, I'll find you. If you do contact me and say something like "I was reviewing your GitHub profile", I'll know you're lying.
 
-I am no longer on Twitter (because it's a toxic waste dump) or LinkedIn (because I don't want to be chum for recruiter sharks.) I am, however, on [Mastodon](https://social.sdf.org/@mcornick).
+I am no longer active on Twitter (because it's a toxic waste dump) and I'm not on LinkedIn (because I don't want to be chum for recruiter sharks.) I am, however, on [Mastodon](https://social.sdf.org/@mcornick).
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcornick)
