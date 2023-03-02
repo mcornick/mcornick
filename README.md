@@ -1,6 +1,6 @@
 ### Hi, I'm Mark
 
-I'm a DevOps engineer specializing in Kubernetes, AWS, and Jenkins at a company I won't name because I'm not speaking for the company, and it doesn't use GitHub anyway. For fun, I write Go and Python, and a little but of Rust. I used to write a lot of Ruby and Rails, but haven't done that in a while.
+I'm a DevOps engineer specializing in Kubernetes, AWS, and Jenkins at a company I won't name because I'm not speaking for the company, and it doesn't use GitHub anyway. For fun, I write Go and Python, and a little bit of Rust. I used to write a lot of Ruby and Rails, but haven't done that in a while.
 
 I was part of the original organizing committee for [DevOpsDays DC](https://twitter.com/DevOpsDaysDC), and have participated in the [DevOps DC](https://www.meetup.com/devopsdc/) meetup group, but am no longer active in either group.
 
